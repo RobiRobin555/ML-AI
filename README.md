@@ -69,3 +69,4 @@ python BTL4.py
 
 - Nếu bạn dùng Jupyter Notebook, có thể copy từng khối lệnh từ file `.py` vào từng cell để chạy tuần tự và quan sát kết quả.
 - Chương trình có sử dụng hiển thị đồ thị (`matplotlib` + `seaborn`) nên cần có môi trường hỗ trợ GUI nếu chạy bằng terminal.
+- File dữ liệu có thể lấy từ link sau : https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
